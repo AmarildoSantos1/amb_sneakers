@@ -22,7 +22,7 @@ npx expo start
 
 ### Visualização do Aplicativo
 
-Após o QR CODE gerado, siga estas instruções...
+Após o QR CODE gerado, o Login é user@hotmail.com senha:123456 , siga estas instruções..
 
 ```bash
 Wifi para ambos aparelhos
