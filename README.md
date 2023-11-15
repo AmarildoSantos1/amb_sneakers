@@ -18,6 +18,14 @@ Para iniciar a aplicação, execute o seguinte comando:
 npm install expo
 # e
 npx expo start
-# e
-migration:run
+```
+
+### Visualização do Aplicativo
+
+Após o QR CODE gerado, siga estas instruções...
+
+```bash
+Wifi para ambos aparelhos
+# ou seja
+Mesma rede wifi para o smartphone e o programa rodado.
 ```
