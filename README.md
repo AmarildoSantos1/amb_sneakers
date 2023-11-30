@@ -9,6 +9,9 @@ Para instalar as dependências necessárias, execute o seguinte comando:
 npm install
 # e
 npm audit fix --force 2 vezes
+# e
+npm install moment
+#e npm install @reduxjs/toolkit react-redux
 ```
 ### Execução
 
