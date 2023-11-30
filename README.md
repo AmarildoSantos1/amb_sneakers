@@ -11,7 +11,8 @@ npm install
 npm audit fix --force 2 vezes
 # e
 npm install moment
-#e npm install @reduxjs/toolkit react-redux
+#e
+npm install @reduxjs/toolkit react-redux
 ```
 ### Execução
 
